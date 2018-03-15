@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/restsdk_https_client/v15/ipch/AutoPCH
+/.vs/restsdk_https_client/v15/Browse.VC.opendb
+/.vs/restsdk_https_client/v15/Browse.VC.db

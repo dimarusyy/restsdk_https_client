@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-restsdk_https_client",
+      "appliesTo": "restsdk_https_client/",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-restsdk_https_client",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
