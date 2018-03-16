@@ -5,3 +5,10 @@
 /.vs/restsdk_https_client/v15/ipch/AutoPCH
 /.vs/restsdk_https_client/v15/Browse.VC.opendb
 /.vs/restsdk_https_client/v15/Browse.VC.db
+/build.x86_64/restsdk_https_client/CMakeFiles
+/build.x86_64/restsdk_https_client/restsdkhttpsclient
+/build.x86_64/restsdk_https_client/Makefile
+/build.x86_64/restsdk_https_client/cmake_install.cmake
+/build.x86_64/Makefile
+/build.x86_64/cmake_install.cmake
+/build.x86_64/CMakeCache.txt
